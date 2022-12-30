@@ -1,1 +1,1 @@
-# Dog-Breed-Prediction-App
+# Dog Breed Prediction App
